@@ -19,13 +19,13 @@
     },
     {
       "part1": {
-        "solved": false,
+        "solved": true,
         "result": "314",
         "attempts": [],
         "time": 1.455125
       },
       "part2": {
-        "solved": false,
+        "solved": true,
         "result": "373",
         "attempts": [],
         "time": 2.332792
@@ -33,13 +33,13 @@
     },
     {
       "part1": {
-        "solved": false,
+        "solved": true,
         "result": "166357705",
         "attempts": [],
         "time": 0.234417
       },
       "part2": {
-        "solved": false,
+        "solved": true,
         "result": "88811886",
         "attempts": [],
         "time": 0.34425

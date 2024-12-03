@@ -5,13 +5,13 @@
   "days": [
     {
       "part1": {
-        "solved": false,
+        "solved": true,
         "result": "1660292",
         "attempts": [],
         "time": 0.774583
       },
       "part2": {
-        "solved": false,
+        "solved": true,
         "result": "22776016",
         "attempts": [],
         "time": 7.329833
